@@ -170,5 +170,5 @@ POST http://localhost:8000/query
 
 ## 👨‍💻 Author
 
-**Your Name**  
+**Ayush Singh**  
 - GitHub: [@ayush1409](https://github.com/ayush1409)  
