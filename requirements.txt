@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+langchain
+openai
+faiss-cpu
+pypdf
+python-docx
+streamlit
+requests
+beautifulsoup4
+tqdm
+pydantic
+python-dotenv
+langchain_openai
+langchain-community
+python-multipart
