@@ -155,7 +155,7 @@ POST http://localhost:8000/query
 
 - **Backend API** → Hosted on Render  
 - **Frontend** → Hosted on Streamlit Cloud  
-- **Video Demo** → Loom link (to be added after recording)  
+- **Video Demo** → [Loom link](https://www.loom.com/share/74a8eeb2aca0497596bb810cf811d768?sid=412764c6-f531-4d6b-bc17-aa1ef2c63eb0)  
 
 ---
 
@@ -172,4 +172,3 @@ POST http://localhost:8000/query
 
 **Your Name**  
 - GitHub: [@ayush1409](https://github.com/ayush1409)  
-- LinkedIn: [ayush1409]  
